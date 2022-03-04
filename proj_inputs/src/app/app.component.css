@@ -1,0 +1,15 @@
+fieldset{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  line-height: 3;
+  background-color: rgba(202, 120, 120, 0.301);
+  width: 300px;
+
+}
+
+legend{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 10px;
+
+}
